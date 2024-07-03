@@ -25,7 +25,7 @@ def introduce_page():
         - 预测结果可以作为保险定价的重要参考，但需审慎决策。
         - 有任何问题欢迎联系我们的技术支持。
 
-        技术支持:email:：support@example.com
+        技术支持:email:：qhf0261120@163.com
     """
     )
 
@@ -97,7 +97,7 @@ def predict_page():
 
         st.write('根据您输入的数据，预测该客户的医疗费用是：', round(predict_result, 2))
 
-    st.write("技术支持:email:：support@example.com")
+    st.write("技术支持:email:：qhf0261120@163.com")
 
 # 设置页面的标题、图标
 st.set_page_config(
